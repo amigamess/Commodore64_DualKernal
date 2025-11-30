@@ -26,6 +26,13 @@ Soder relative wire (restore cable from PCB)
 
 By pressing RESTORE at the power on, you can set second Kernal!
 
+Part List:
+
+EPROM 27256
+74HC74
+Stripline (pin turned)
+Kernal rom!
+
 Link to PCB: https://www.pcbway.com/project/shareproject/Commodore_64_breadbin_DualKernal_SwitchLess_8e61c763.html
 
 ONLY FOR PERSONAL USE NO COMMERCIAL
